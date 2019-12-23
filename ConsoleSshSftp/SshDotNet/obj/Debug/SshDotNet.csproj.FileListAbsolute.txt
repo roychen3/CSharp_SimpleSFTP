@@ -1,0 +1,7 @@
+D:\c#\SshDotNet\SshDotNet\bin\Debug\SshDotNet.dll
+D:\c#\SshDotNet\SshDotNet\bin\Debug\SshDotNet.pdb
+D:\c#\SshDotNet\SshDotNet\bin\Debug\Renci.SshNet.dll
+D:\c#\SshDotNet\SshDotNet\bin\Debug\Renci.SshNet.xml
+D:\c#\SshDotNet\SshDotNet\obj\Debug\SshDotNet.csprojResolveAssemblyReference.cache
+D:\c#\SshDotNet\SshDotNet\obj\Debug\SshDotNet.dll
+D:\c#\SshDotNet\SshDotNet\obj\Debug\SshDotNet.pdb

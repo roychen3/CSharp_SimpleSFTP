@@ -1,0 +1,10 @@
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\ConsoleSshSftp.exe.config
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\ConsoleSshSftp.exe
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\ConsoleSshSftp.pdb
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\Renci.SshNet.dll
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\Renci.SshNet.xml
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\obj\Debug\ConsoleSshSftp.csprojResolveAssemblyReference.cache
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\obj\Debug\ConsoleSshSftp.exe
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\obj\Debug\ConsoleSshSftp.pdb
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\SshDotNet.dll
+D:\c#\ConsoleSshSftp\ConsoleSshSftp\bin\Debug\SshDotNet.pdb
